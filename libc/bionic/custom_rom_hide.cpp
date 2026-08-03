@@ -66,6 +66,7 @@ static const char* const kProcFilterKeywords[] = {
     "axion",
     "Axion",
     "omnirom",
+    "aospa",
     nullptr
 };
 
