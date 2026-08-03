@@ -105,6 +105,7 @@ static inline ssize_t raw_readlinkat(const char* path, char* buf, size_t size) {
 
 static const char* const kAllowlistedPackages[] = {
     "org.lineageos.updater",
+    "org.luminedroid.updater",
     nullptr
 };
 
