@@ -71,7 +71,7 @@ static const char* const kMountFilterKeywords[] = {
 };
 
 static const char* const kAllowlistedPackages[] = {
-    "com.voltageos.updater",
+    "org.luminedroid.updater",
     nullptr
 };
 
